@@ -15,4 +15,4 @@ This project focused on analyzing bank loan data to conduct an Exploratory Data 
 - **Normal Distribution of Bank Balances:** The distribution of customer bank balances followed a normal (bell-shaped) curve, with the majority of balances ranging between $6,500 and $13,000.
 
 ## Files Included
-- `Bank_Data.xlsx`: Contains the raw data, exploratory analysis, and dashboard visualizations.
+- `Bank_Loan_Data.xlsx`: Contains the raw data, exploratory analysis, and dashboard visualizations.
